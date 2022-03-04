@@ -177,6 +177,58 @@ const app = {
             pathSong: './assets/music/list-song/15.m4a',
             duration : '03:51',
         },
+        {
+            background: './assets/img/songs/16.jpg',
+            name: 'Sợ rằng em biết anh còn yêu em',
+            singer: 'JUUN D, Orange',
+            pathSong: './assets/music/list-song/16.mp3',
+            duration : '03:51',
+        },
+
+        {
+            background: './assets/img/songs/17.jpg',
+            name: 'Ngày chưa giông bão (Người bất từ OST)',
+            singer: 'Bùi Lan Hương',
+            pathSong: './assets/music/list-song/17.mp3',
+            duration : '03:51',
+        },
+        {
+            background: './assets/img/songs/18.jpg',
+            name: '3107 3+1-2',
+            singer: 'W/n x Nâu x Duong x Titie|Lofi Version by Vũ Ngân Mỹ',
+            pathSong: './assets/music/list-song/18.mp3',
+            duration : '03:51',
+        },
+        {
+            background: './assets/img/songs/19.jpg',
+            name: 'Đã lỡ yêu em nhiều',
+            singer: 'JustaTee',
+            pathSong: './assets/music/list-song/19.mp3',
+            duration : '04:21',
+        },
+        {
+            background: './assets/img/songs/20.jpg',
+            name: 'Thích em hơi nhiều',
+            singer: ' Wren Evans',
+            pathSong: './assets/music/list-song/20.mp3',
+            duration : '02:51',
+        },
+        {
+            background: './assets/img/songs/21.jpg',
+            name: '101520',
+            singer: ' Sol7 x Prettyxix',
+            pathSong: './assets/music/list-song/21.mp3',
+            duration : '03:13',
+        },
+        {
+            background: './assets/img/songs/22.jpg',
+            name: 'Khắc Cốt Ghi Tâm',
+            singer: 'Karik, Seachains, Dlow, RAP VIỆT',
+            pathSong: './assets/music/list-song/22.mp3',
+            duration : '04:13',
+        },
+
+
     ],
     currentIndex : 0,
     isPlaying: false,

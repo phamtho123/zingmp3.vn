@@ -228,6 +228,119 @@ const app = {
             duration : '04:13',
         },
 
+        {
+            background: './assets/img/songs/23.jpg',
+            name: 'Hẹn ước từ hư vô',
+            singer: 'Mỹ Tâm',
+            pathSong: './assets/music/list-song/23.mp3',
+            duration : '04:05',
+        },
+
+        {
+            background: './assets/img/songs/24.jpg',
+            name: 'Nothing On You',
+            singer: 'Mỹ Tâm',
+            pathSong: './assets/music/list-song/24.mp3',
+            duration : '04:29',
+        },
+
+        {
+            background: './assets/img/songs/25.jpg',
+            name: 'The Show',
+            singer: 'Lenka',
+            pathSong: './assets/music/list-song/25.mp3',
+            duration : '03:55',
+        },
+
+        {
+            background: './assets/img/songs/26.jpg',
+            name: 'Coming Home',
+            singer: 'Stratovarius',
+            pathSong: './assets/music/list-song/26.mp3',
+            duration : '05:36',
+        },
+
+        {
+            background: './assets/img/songs/27.jpg',
+            name: 'Dancing With Your Ghost',
+            singer: 'Sasha Sloan',
+            pathSong: './assets/music/list-song/27.mp3',
+            duration : '03:55',
+        },
+
+        {
+            background: './assets/img/songs/28.jpg',
+            name: 'See You Again',
+            singer: 'Wiz Khalifa,Charlie Puth',
+            pathSong: './assets/music/list-song/28.mp3',
+            duration : '03:49',
+        },
+
+        {
+            background: './assets/img/songs/29.jpg',
+            name: 'Let Me Down Slowly',
+            singer: 'Alec Benjamin',
+            pathSong: './assets/music/list-song/29.mp3',
+            duration : '02:49',
+        },
+
+        {
+            background: './assets/img/songs/30.jpg',
+            name: 'One Day- Matisyahu',
+            singer: 'Matisyahu',
+            pathSong: './assets/music/list-song/30.mp3',
+            duration : '03:40',
+        },
+
+        {
+            background: './assets/img/songs/31.jpg',
+            name: 'Send It (Feat. Rich Homie Quan)',
+            singer: 'Austin Mahone',
+            pathSong: './assets/music/list-song/31.mp3',
+            duration : '03:40',
+        },
+
+        {
+            background: './assets/img/songs/32.jpg',
+            name: 'Play Date ',
+            singer: 'Melanie Martinez ',
+            pathSong: './assets/music/list-song/32.mp3',
+            duration : '03:40',
+        },
+
+        {
+            background: './assets/img/songs/34.jpg',
+            name: 'Wrap Me In Plastic',
+            singer: ' Chromance',
+            pathSong: './assets/music/list-song/34.mp3',
+            duration : '03:13',
+        },
+
+        {
+            background: './assets/img/songs/35.jpg',
+            name: 'Reality',
+            singer: 'Lost Frequencies; Janieck Devy',
+            pathSong: './assets/music/list-song/35.mp3',
+            duration : '02:49',
+        },
+
+        {
+            background: './assets/img/songs/36.png',
+            name: 'Something Just Like This',
+            singer: 'The Chainsmokers,Coldplay',
+            pathSong: './assets/music/list-song/36.mp3',
+            duration : '04:04',
+        },
+
+        {
+            background: './assets/img/songs/37.jpeg',
+            name: 'Lost Control',
+            singer: ' Alan Walker,Sorana',
+            pathSong: './assets/music/list-song/37.mp3',
+            duration : '03:42',
+        },
+
+
 
     ],
     currentIndex : 0,

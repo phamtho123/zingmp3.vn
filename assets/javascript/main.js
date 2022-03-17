@@ -327,7 +327,7 @@ const app = {
         {
             background: './assets/img/songs/36.png',
             name: 'Something Just Like This',
-            singer: 'The Chainsmokers,Coldplay',
+            singer: 'The Chainsmokers, Coldplay',
             pathSong: './assets/music/list-song/36.mp3',
             duration : '04:04',
         },

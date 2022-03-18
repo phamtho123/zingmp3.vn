@@ -340,6 +340,16 @@ const app = {
             duration : '03:42',
         },
 
+        {
+            background: './assets/img/songs/38.jpg',
+            name: "Don't Break My Heart",
+            singer: ' Binz; Touliver',
+            pathSong: './assets/music/list-song/38.mp3',
+            duration : '03:42',
+        },
+
+
+
 
 
     ],

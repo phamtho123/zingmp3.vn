@@ -345,7 +345,7 @@ const app = {
             name: "Don't Break My Heart",
             singer: ' Binz; Touliver',
             pathSong: './assets/music/list-song/38.mp3',
-            duration : '03:42',
+            duration : '03:57',
         },
 
 
